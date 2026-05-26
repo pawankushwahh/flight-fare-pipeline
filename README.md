@@ -49,7 +49,7 @@ The scraper will print a summary on start:
 ✅  110 routes (both directions)
 ✅  9 date points (every 7 days, 2 months)
 📊  Total pages: 990  |  ETA: ~5.5 hr
-♻️   47 already done → 943 remaining
+♻️   47 already done → 943 remaining (now all 990 completed -> 0 remaining )
 ```
 
 It is **resumable** — if interrupted, restart and it picks up where it left off (skips rows already in `data/flights.csv`).
