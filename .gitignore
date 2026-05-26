@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Debug output from scraper
+data/error_*.png
+data/debug_*.png
+data/debug_*.html
+
+# Keep data/flights.csv tracked (intentional)
+# Keep india_airports.csv tracked
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,12 @@
+Kind,ICAO,FAA,IATA,City,Name,Latitude,Longitude,Max Runway,Airlines
+Large,VIAR,,ATQ,Amritsar,AMRITSAR,31.710(N),74.797(E),10791 ft,9.0
+Large,VOBL,,BLR,Bangalore,Kempegowda International Airport,13.198(N),77.706(E),,37.0
+Large,VOCI,,COK,Cochin,COCHIN INTL,10.152(N),76.402(E),11155 ft,27.0
+Large,VAGO,,GOI,Dabolim,GOA,15.381(N),73.831(E),11345 ft,26.0
+Large,VIDP,,DEL,Delhi,INDIRA GANDHI INTL,28.567(N),77.103(E),12500 ft,69.0
+Large,VOHS,,HYD,Hyderabad,Rajiv Gandhi International Airport,17.231(N),78.430(E),,24.0
+Large,VOCL,,CCJ,Kerala,CALICUT,11.137(N),75.955(E),9383 ft,12.0
+Large,VECC,,CCU,Kolkata,NETAJI SUBHASH CHANDRA BOSE INTL,22.655(N),88.447(E),11900 ft,26.0
+Large,VOMM,,MAA,Madras,CHENNAI INTL,12.994(N),80.181(E),12001 ft,43.0
+Large,VABB,,BOM,Mumbai,CHHATRAPATI SHIVAJI INTL,19.089(N),72.868(E),10837 ft,56.0
+Large,VOTV,,TRV,Trivandrum,THIRUVANANTHAPURAM INTL,8.482(N),76.920(E),10626 ft,19.0
